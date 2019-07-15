@@ -1,0 +1,9 @@
+data/
+target/
+dbt_modules/
+logs/
+.env
+.venv
+*.csv
+*.xlsx
+*.dat
