@@ -7,3 +7,6 @@
 - Join the [chat](http://ac-slackin.herokuapp.com/) on Slack for live questions and support.
 
 ---
+
+pgAdmin4
+dbt run --profiles-dir .
